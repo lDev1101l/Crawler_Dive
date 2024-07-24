@@ -1,0 +1,17 @@
+C:\Users\Deffe\source\repos\WebCrawler (wiki)\WebCrawler (wiki)\bin\Debug\net8.0\WebCrawler (wiki).exe
+C:\Users\Deffe\source\repos\WebCrawler (wiki)\WebCrawler (wiki)\bin\Debug\net8.0\WebCrawler (wiki).deps.json
+C:\Users\Deffe\source\repos\WebCrawler (wiki)\WebCrawler (wiki)\bin\Debug\net8.0\WebCrawler (wiki).runtimeconfig.json
+C:\Users\Deffe\source\repos\WebCrawler (wiki)\WebCrawler (wiki)\bin\Debug\net8.0\WebCrawler (wiki).dll
+C:\Users\Deffe\source\repos\WebCrawler (wiki)\WebCrawler (wiki)\bin\Debug\net8.0\WebCrawler (wiki).pdb
+C:\Users\Deffe\source\repos\WebCrawler (wiki)\WebCrawler (wiki)\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\Deffe\source\repos\WebCrawler (wiki)\WebCrawler (wiki)\obj\Debug\net8.0\WebCrawler (wiki).csproj.AssemblyReference.cache
+C:\Users\Deffe\source\repos\WebCrawler (wiki)\WebCrawler (wiki)\obj\Debug\net8.0\WebCrawler (wiki).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deffe\source\repos\WebCrawler (wiki)\WebCrawler (wiki)\obj\Debug\net8.0\WebCrawler (wiki).AssemblyInfoInputs.cache
+C:\Users\Deffe\source\repos\WebCrawler (wiki)\WebCrawler (wiki)\obj\Debug\net8.0\WebCrawler (wiki).AssemblyInfo.cs
+C:\Users\Deffe\source\repos\WebCrawler (wiki)\WebCrawler (wiki)\obj\Debug\net8.0\WebCrawler (wiki).csproj.CoreCompileInputs.cache
+C:\Users\Deffe\source\repos\WebCrawler (wiki)\WebCrawler (wiki)\obj\Debug\net8.0\WebCrawler (wiki).csproj.CopyComplete
+C:\Users\Deffe\source\repos\WebCrawler (wiki)\WebCrawler (wiki)\obj\Debug\net8.0\WebCrawler (wiki).dll
+C:\Users\Deffe\source\repos\WebCrawler (wiki)\WebCrawler (wiki)\obj\Debug\net8.0\refint\WebCrawler (wiki).dll
+C:\Users\Deffe\source\repos\WebCrawler (wiki)\WebCrawler (wiki)\obj\Debug\net8.0\WebCrawler (wiki).pdb
+C:\Users\Deffe\source\repos\WebCrawler (wiki)\WebCrawler (wiki)\obj\Debug\net8.0\WebCrawler (wiki).genruntimeconfig.cache
+C:\Users\Deffe\source\repos\WebCrawler (wiki)\WebCrawler (wiki)\obj\Debug\net8.0\ref\WebCrawler (wiki).dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gfgBSYY/Tc41/I5Makv81Zd4tYvYu2LW4reOufgIUcK72nLcXIV/26UWCKCQMlaLMvVGxgIZxEuP3TRrQ1MPLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Deffe\\source\\repos\\WebCrawler (wiki)\\WebCrawler (wiki)\\WebCrawler (wiki).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Deffe\\.nuget\\packages\\htmlagilitypack\\1.11.61\\htmlagilitypack.1.11.61.nupkg.sha512"
+  ],
+  "logs": []
+}
